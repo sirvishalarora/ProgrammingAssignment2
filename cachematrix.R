@@ -1,5 +1,3 @@
-## Girl says Hallelujah
-
 ##  This script provides a user inverse of an invertible matrix. If the result is already calculated then
 ##  it is provided thorugh cache, otherwise it is calculated and cached for future enquiries.
 
